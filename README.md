@@ -63,7 +63,7 @@ Um exemplo simples:
 		@Override
 		public boolean isLoggedIn() {
 			//sempre logado!
-			//aqui você poderia veridicar se a sessão ainda está ativa. Fica a seu critéria! ;D
+			//aqui você poderia verificar se a sessão ainda está ativa. Fica a seu critéria! ;D
 			return true;
 		}
 	}
